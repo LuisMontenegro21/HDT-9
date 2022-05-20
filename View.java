@@ -13,6 +13,8 @@ public class View{
     if(command == "destiny"){
       System.out.println("Ingrese la ciudad destino: ");
     }
-    
+    if (command == ""){
+      
+    }
   }
 }
